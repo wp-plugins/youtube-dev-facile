@@ -1,4 +1,4 @@
-=== AWeber Dev Facile ===
+=== YouTube Dev Facile ===
 Contributors: Matthieu20 
 Author URI: http://www.programmation-facile.com/
 Tags: youtube, view, video, channel, chaine, total
@@ -26,7 +26,7 @@ Vous souhaitez Créer des Applications Performantes sur smartphones, tablettes e
 
 In English :
 
-1.  Upload the aweber-devfacile folder to the /wp-content/plugins/ directory
+1.  Upload the youtube-devfacile folder to the /wp-content/plugins/ directory
 2.  Activate the YouTube Dev Facile plugin through the 'Plugins' menu in WordPress
 3.  Configure the plugin by going to the YouTube Dev Facile menu that appears in your admin menu
 4.  Paste shortcode anywhere including any sidebar text widget : [YTcount select="nbVideos"] or [YTcount select="nbViews"]
