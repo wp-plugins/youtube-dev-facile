@@ -22,6 +22,14 @@ exemple d'utilisation : [YTcount select="nbVideos"] ou [YTcount select="nbViews"
 Vous souhaitez Créer des Applications Performantes sur smartphones, tablettes et le web ?  
 <a href="http://www.programmation-facile.com/" target="_blank" title="Des Applications Mobiles et Web Performantes avec JavaScript et HTML5">Cliquez ici pour découvrir Developpement-facile.com</a>
 
+Configuration du Plugin YouTube Dev Facile en français
+(avec une information très importante sur la création de la clé API YouTube v.3)
+
+Configure the plugin YouTube Dev Facile in english
+(a very important information about your creation of API KEY YouTube v.3)
+
+[youtube https://www.youtube.com/watch?v=05VrGo3B0xY]
+
 == Installation ==
 
 In English :
