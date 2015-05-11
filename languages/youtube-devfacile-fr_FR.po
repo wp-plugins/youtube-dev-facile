@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: youtube-devfacile\n"
+"POT-Creation-Date: 2015-05-10 11:01+0100\n"
+"PO-Revision-Date: 2015-05-10 11:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: /Users/matth/Documents/dev-facile/save-site/"
+"utilitaires/youtube-devfacile-0.1\n"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/copywriting.php:47
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:61
+msgid "Title-YouTube-Dev-Facile-Marketing"
+msgstr "Lisez ceci si vous voulez Développer Votre Activité"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/copywriting.php:48
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:62
+msgid "Text-YouTube-Dev-Facile-Marketing"
+msgstr ""
+"Je m’appelle Matthieu et je suis rédacteur publicitaire. <br /"
+">C’est-à-dire que j’utilise <strong>le Pouvoir des Mots pour "
+"améliorer les taux de conversion, les ventes et donc le chiffre "
+"d’affaires</strong> de mes clients. <br /> <br />J’ai décidé de "
+"<strong>partager gratuitement mes connaissances, mes expériences, "
+"mes stratégies et les dernières nouveautés</strong> - qui ont fait "
+"leurs preuves ! - dans le domaine du copywriting. <br />Pour vous "
+"aider d’une façon simple et efficace, j’ai mis en place "
+"<strong>une formation gratuite sur l’utilisation du pourvoir des "
+"mots pour décupler votre activité.</strong> <br /> <br />À travers "
+"une série d’emails, 1 par semaine, vous allez recevoir <strong>des "
+"conseils précis à appliquer rapidement et même dès aujourd’hui </"
+"strong>sur votre site. <br /> <br /><strong>Renseignez simplement "
+"vos coordonnées </strong>dans le formulaire ci-dessous !<br /> "
+"<br />À toute de suite pour faire connaissance "
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:61
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:49
+msgid "Title-Page-Admin"
+msgstr "YouTube Dev Facile"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:62
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:50
+msgid "Text-Page-Admin"
+msgstr "Configurez le plugin YouTube Dev Facile"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:86
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:53
+msgid "api-key-youtube"
+msgstr "Clé API YouTube (Clé pour les applications de navigateur)"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:88
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:51
+msgid "link-console-google"
+msgstr ""
+"Cliquez ici pour récupérer votre clé API YouTube v.3 pour les "
+"applications de navigateur"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:92
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:54
+msgid "channel-name"
+msgstr "Le nom de votre chaîne YouTube"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:98
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:52
+msgid "btn-save"
+msgstr "Sauvegarder les réglages"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:103
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:57
+msgid "Title-YouTube-Dev-Facile-Settings"
+msgstr "Les Options"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:104
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:58
+msgid "Text-YouTube-Dev-Facile-Settings"
+msgstr "Prochainement des options sympas..."

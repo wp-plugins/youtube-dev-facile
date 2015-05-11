@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: youtube-devfacile\n"
+"POT-Creation-Date: 2015-05-10 11:01+0100\n"
+"PO-Revision-Date: 2015-05-10 11:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: /Users/matth/Documents/dev-facile/save-site/"
+"utilitaires/youtube-devfacile-0.1\n"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/copywriting.php:47
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:61
+msgid "Title-YouTube-Dev-Facile-Marketing"
+msgstr "Read this if you would to boost your activity"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/copywriting.php:48
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:62
+msgid "Text-YouTube-Dev-Facile-Marketing"
+msgstr ""
+"My name is Matthieu and i am french copywriter. <br />I use "
+"<strong>the power of words to improve conversion rates, sales and "
+"revenues</strong> of my clients. <br /> <br />I decided to "
+"<strong>free share my knowledge, my experience, my strategies and "
+"the latest news</strong> - who are proven ! - in the field of "
+"copywriting. <br />To help you with a simple and effective way, i "
+"have set up <strong>free training on using the power of word to "
+"multiply your business.</strong> <br /> <br /><strong>Find simply "
+"your details </strong>in thje form below !<br /> <br />At right "
+"away to get to know"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:61
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:49
+msgid "Title-Page-Admin"
+msgstr "YouTube Dev Facile"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:62
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:50
+msgid "Text-Page-Admin"
+msgstr "Configure the plugin YouTube Dev Facile"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:86
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:53
+msgid "api-key-youtube"
+msgstr "Key API YouTube (Key for applications of browser)"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:88
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:51
+msgid "link-console-google"
+msgstr ""
+"Clic here to get your API Key YouTube v.3 for browser applications"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:92
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:54
+msgid "channel-name"
+msgstr "Name of your channel YouTube"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:98
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:52
+msgid "btn-save"
+msgstr "Save Options"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:103
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:57
+msgid "Title-YouTube-Dev-Facile-Settings"
+msgstr "Options"
+
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/classes/admin/main.php:104
+#: /Users/matth/Documents/dev-facile/save-site/utilitaires/youtube-devfacile-0.1/languages/strings.php:58
+msgid "Text-YouTube-Dev-Facile-Settings"
+msgstr "Work in progress..."
